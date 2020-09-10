@@ -1,1 +1,1 @@
-# herlan
+<script type="text/javascript"> var adlinkfly_url = 'https://za.gl/'; var adlinkfly_api_token = '0d6e2ac5e6939f70e8b93aa2be9b99ae287b32f4'; var adlinkfly_advert = 2; var adlinkfly_domains = ['depositfiles.com', '*.zippyshare.com', 'uploadable.ch']; </script> <script src='//za.gl/js/full-page-script.js'></script>
